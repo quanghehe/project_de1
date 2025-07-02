@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:14
+    container_name: postgres_project
+    environment:
+      POSTGRES_USER: quang
+      POSTGRES_PASSWORD: q
+      POSTGRES_DB: product
+    ports:
+      - "5332:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+
+volumes:
+  postgres_data:

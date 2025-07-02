@@ -1,0 +1,743 @@
+[
+    {
+        "id": "39710",
+        "name": "Sunny Vibes",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/sunny-vibes-eau-de-parfum-pai-30-ml-3701429819118-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39710",
+                "id": "39710",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/sunny-vibes-eau-de-parfum-pai-30-ml-3701429819118-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39710",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.851349",
+                "updated_at": "2025-06-19T03:19:00.851354"
+            }
+        ]
+    },
+    {
+        "id": "39526",
+        "name": "Love Infinity",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/love-infinity-coffret-30ml-gel-douche-250ml-3701429841782.html",
+        "variants": []
+    },
+    {
+        "id": "39732",
+        "name": "Mono\u00ef Blanc",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-blanc-coffret-eau-de-parfum-30ml-gel-douche-250ml-3701429844622-fr.html",
+        "variants": []
+    },
+    {
+        "id": "38754",
+        "name": "Coffret Merci !",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/merci-coffret-metal-4-eaux-de-parfums-melrose-paradise-30ml-monoi-des-iles-30ml-wonderful-30ml-cotton-crush-30ml-3701429836573-fr.html",
+        "variants": []
+    },
+    {
+        "id": "39403",
+        "name": "Monoi des iles",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-des-iles-eau-de-parfum-30-ml-8883701429828042-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39403",
+                "id": "38789",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-des-iles-eau-de-parfum-30-ml-8883701429828042-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38789",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852085",
+                "updated_at": "2025-06-19T03:19:00.852087"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39403",
+                "id": "39502",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-des-iles-eau-de-parfum-30-ml-8883701429828042-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39502",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852104",
+                "updated_at": "2025-06-19T03:19:00.852105"
+            }
+        ]
+    },
+    {
+        "id": "39387",
+        "name": "Fleur des tropiques",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/fleur-des-tropiques-eau-de-parfum-non-paillete-30-ml-8883701429833404-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39387",
+                "id": "38171",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/fleur-des-tropiques-eau-de-parfum-non-paillete-30-ml-8883701429833404-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38171",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852281",
+                "updated_at": "2025-06-19T03:19:00.852283"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39387",
+                "id": "38172",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/fleur-des-tropiques-eau-de-parfum-non-paillete-30-ml-8883701429833404-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38172",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852299",
+                "updated_at": "2025-06-19T03:19:00.852300"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39387",
+                "id": "39810",
+                "price": 19.95,
+                "currency": "EUR",
+                "size": 50.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/fleur-des-tropiques-eau-de-parfum-non-paillete-30-ml-8883701429833404-fr.html/?contenance=50ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39810",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852310",
+                "updated_at": "2025-06-19T03:19:00.852311"
+            }
+        ]
+    },
+    {
+        "id": "39809",
+        "name": "Tahiti Paradis Intense",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/tahiti-paradis-intense-eau-de-parfum-50ml-3701429844325-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39809",
+                "id": "39809",
+                "price": 19.95,
+                "currency": "EUR",
+                "size": 50.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/tahiti-paradis-intense-eau-de-parfum-50ml-3701429844325-fr.html/?contenance=50ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39809",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852484",
+                "updated_at": "2025-06-19T03:19:00.852485"
+            }
+        ]
+    },
+    {
+        "id": "39385",
+        "name": "Tahiti Paradis",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/tahiti-paradis-eau-de-parfum-8883701429833725-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39385",
+                "id": "39311",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/tahiti-paradis-eau-de-parfum-8883701429833725-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39311",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852661",
+                "updated_at": "2025-06-19T03:19:00.852663"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39385",
+                "id": "38758",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/tahiti-paradis-eau-de-parfum-8883701429833725-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38758",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.852678",
+                "updated_at": "2025-06-19T03:19:00.852679"
+            }
+        ]
+    },
+    {
+        "id": "39611",
+        "name": "Calendrier Summer",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/calendrier-summer-edition-2025-3701429842420-fr.html",
+        "variants": []
+    },
+    {
+        "id": "40364",
+        "name": "Nostalgia",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/nostalgia-eau-de-parfum-8883701429841270-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "40364",
+                "id": "39703",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/nostalgia-eau-de-parfum-8883701429841270-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39703",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.853024",
+                "updated_at": "2025-06-19T03:19:00.853026"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "40364",
+                "id": "39707",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/nostalgia-eau-de-parfum-8883701429841270-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39707",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.853050",
+                "updated_at": "2025-06-19T03:19:00.853051"
+            }
+        ]
+    },
+    {
+        "id": "39533",
+        "name": "Discovery Set",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/discovery-coffret-7-eaux-de-parfum-10ml-3701429841959.html",
+        "variants": []
+    },
+    {
+        "id": "38261",
+        "name": "Sunny Vibes",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/sunny-vibes-eau-de-parfum-8883701429820329-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "38261",
+                "id": "38467",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/sunny-vibes-eau-de-parfum-8883701429820329-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38467",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.853390",
+                "updated_at": "2025-06-19T03:19:00.853391"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "38261",
+                "id": "39472",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/sunny-vibes-eau-de-parfum-8883701429820329-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39472",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.853406",
+                "updated_at": "2025-06-19T03:19:00.853407"
+            }
+        ]
+    },
+    {
+        "id": "39047",
+        "name": "Mono\u00ef Blanc",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-blanc-eau-de-parfum-pailletee-30-ml-3701429833909-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39047",
+                "id": "39047",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-blanc-eau-de-parfum-pailletee-30-ml-3701429833909-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39047",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.853582",
+                "updated_at": "2025-06-19T03:19:00.853584"
+            }
+        ]
+    },
+    {
+        "id": "39180",
+        "name": "Monoi des iles Intense",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-des-iles-intense-eau-de-parfum-50-ml-3701429833879-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39180",
+                "id": "39180",
+                "price": 19.95,
+                "currency": "EUR",
+                "size": 50.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-des-iles-intense-eau-de-parfum-50-ml-3701429833879-fr.html/?contenance=50ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39180",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.853767",
+                "updated_at": "2025-06-19T03:19:00.853769"
+            }
+        ]
+    },
+    {
+        "id": "39527",
+        "name": "Love Infinity",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/love-infinity-coffret-30ml-100ml-3701429841904.html",
+        "variants": []
+    },
+    {
+        "id": "39569",
+        "name": "Sunny Vibes",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/sunny-vibes-coffret-eau-de-parfum-30-ml-gel-douche-250-ml-3701429843540.html",
+        "variants": []
+    },
+    {
+        "id": "39404",
+        "name": "Monoi blanc",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-blanc-eau-de-parfum-30-ml-8883701429833886-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39404",
+                "id": "39045",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-blanc-eau-de-parfum-30-ml-8883701429833886-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39045",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.854291",
+                "updated_at": "2025-06-19T03:19:00.854292"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39404",
+                "id": "39046",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-blanc-eau-de-parfum-30-ml-8883701429833886-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39046",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.854308",
+                "updated_at": "2025-06-19T03:19:00.854308"
+            }
+        ]
+    },
+    {
+        "id": "38764",
+        "name": "Tahiti Paradis",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/tahiti-paradis-coffret-chalet-3701429833800-fr.html",
+        "variants": []
+    },
+    {
+        "id": "38170",
+        "name": "Fleur des tropiques",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/fleur-des-tropiques-eau-de-parfum-paillete-30-ml-3701429833398-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "38170",
+                "id": "38170",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/fleur-des-tropiques-eau-de-parfum-paillete-30-ml-3701429833398-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38170",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.854641",
+                "updated_at": "2025-06-19T03:19:00.854643"
+            }
+        ]
+    },
+    {
+        "id": "40352",
+        "name": "Glamourama",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/glamourama-eau-de-parfum-30-ml-8883701429841805-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "40352",
+                "id": "39757",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/glamourama-eau-de-parfum-30-ml-8883701429841805-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39757",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.854833",
+                "updated_at": "2025-06-19T03:19:00.854834"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "40352",
+                "id": "39596",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/glamourama-eau-de-parfum-30-ml-8883701429841805-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39596",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.854859",
+                "updated_at": "2025-06-19T03:19:00.854860"
+            }
+        ]
+    },
+    {
+        "id": "38893",
+        "name": "Monoi des iles",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-des-iles-coffret-duo-eau-de-parfum-30-ml-pur-monoi-100-ml-3701429833985-fr.html",
+        "variants": []
+    },
+    {
+        "id": "39729",
+        "name": "Tahiti Paradis",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/tahiti-paradis-coffret-eau-de-parfum-30ml-gel-douche-250ml-3701429843991-fr.html",
+        "variants": []
+    },
+    {
+        "id": "39402",
+        "name": "Monoi des iles",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-des-iles-eau-de-parfum-pailletee-30-ml-8883701429833856-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39402",
+                "id": "39310",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-des-iles-eau-de-parfum-pailletee-30-ml-8883701429833856-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39310",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.855454",
+                "updated_at": "2025-06-19T03:19:00.855456"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "39402",
+                "id": "38792",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/monoi-des-iles-eau-de-parfum-pailletee-30-ml-8883701429833856-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "38792",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.855483",
+                "updated_at": "2025-06-19T03:19:00.855484"
+            }
+        ]
+    },
+    {
+        "id": "39515",
+        "name": "Glamourama",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/glamourama-coffret-30ml-gel-douche-250ml-3701429841850.html",
+        "variants": []
+    },
+    {
+        "id": "40351",
+        "name": "Love Infinity",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/love-infinity-eau-de-parfum-30-ml-8883701429841829-fr.html",
+        "variants": [
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "40351",
+                "id": "39597",
+                "price": 26.95,
+                "currency": "EUR",
+                "size": 100.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/love-infinity-eau-de-parfum-30-ml-8883701429841829-fr.html/?contenance=100ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39597",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.856002",
+                "updated_at": "2025-06-19T03:19:00.856004"
+            },
+            {
+                "source": "https://www.adopt.com",
+                "parent_perfume_id": "40351",
+                "id": "39598",
+                "price": 11.95,
+                "currency": "EUR",
+                "size": 30.0,
+                "size_unit": "ml",
+                "link": "https://www.adopt.com/fr/love-infinity-eau-de-parfum-30-ml-8883701429841829-fr.html/?contenance=30ml",
+                "line": "Adopt",
+                "vendor": "Adopt",
+                "sku": "39598",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-19T03:19:00.856025",
+                "updated_at": "2025-06-19T03:19:00.856026"
+            }
+        ]
+    },
+    {
+        "id": "39763",
+        "name": "Mono\u00ef des \u00celes Intense",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/monoi-des-iles-intense-coffret-eau-de-parfum-30ml-50ml-intense-3701429844431-fr.html",
+        "variants": []
+    },
+    {
+        "id": "39554",
+        "name": "Love you to the moon and back",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/love-you-to-the-moon-and-back-coffret-4-eaux-de-parfum-3701429841942.html",
+        "variants": []
+    },
+    {
+        "id": "39549",
+        "name": "Nostalgia",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/nostalgia-coffret-eau-de-parfum-30-ml-gel-douche-250-ml-3701429841331-fr.html",
+        "variants": []
+    },
+    {
+        "id": "39761",
+        "name": "Sweet Summer",
+        "brand": {
+            "name": "Adopt"
+        },
+        "category": "Adopt",
+        "gender": "all",
+        "url": "https://www.adopt.com/fr/sweet-summer-coffret-metal-4-eaux-de-parfums-3701429843960-fr.html",
+        "variants": []
+    }
+]
