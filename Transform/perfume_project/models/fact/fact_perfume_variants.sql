@@ -1,17 +1,12 @@
 SELECT
     v.variant_id,
-    v.product_id,
-    p.name,
-    p.brand,
-    p.category,
-    p.gender,
-    v.size,
+    v.product_id,              
+    sz.size_id,                
+    cur.currency_id,           
     v.price,
-    v.currency,
     v.in_stock,
-    p.url AS perfume_url,
     v.variant_url
-
-from {{ref('stg_variants')}} v
-join {{ref('stg_perfumes')}} p 
-on v.product_id = p.product_id
+FROM {{ ref('stg_variants') }} v
+JOIN {{ ref('stg_perfumes') }} p ON v.product_id = p.product_id
+LEFT JOIN {{ ref('dim_size') }} sz ON v.size = sz.size
+LEFT JOIN {{ ref('dim_currency') }} cur ON v.currency = cur.currency_code
