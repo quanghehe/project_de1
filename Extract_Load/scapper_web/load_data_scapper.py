@@ -8,6 +8,7 @@ import logging
 
 DATA_JSON_ADOPT = "Extract_Load/data/adopt.json"
 DATA_JSON_HAHORD = "Extract_Load/data/Harrods.json"
+DATA_JSON_LIQUIES = "Extract_Load/data/liquides.json"
 
 
 load_dotenv()
@@ -28,37 +29,53 @@ def load_json_to_db(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    # Đọc các ID đã có sẵn trong DB
+    existing_perfume_ids = set(pd.read_sql("SELECT id FROM perfumes", engine)['id'])
+    existing_variant_keys = set(
+        pd.read_sql("SELECT variant_id, perfume_id FROM variants", engine)
+        .apply(lambda row: (str(row['variant_id']), str(row['perfume_id'])), axis=1)
+    )
+
     perfumes = []
     variants = []
 
     for perfume in data:
-        perfume_id = perfume.get('id')
-        perfumes.append({
-            'id': perfume_id,
-            'name': perfume.get('name'),
-            'brand': perfume.get('brand', {}).get('name'),
-            'category': perfume.get('category'),
-            'gender': perfume.get('gender'),
-            'url': perfume.get('url'),
-        })
+        perfume_id = str(perfume.get('id'))
+
+        if perfume_id not in existing_perfume_ids:
+            perfumes.append({
+                'id': perfume_id,
+                'name': perfume.get('name'),
+                'brand': perfume.get('brand', {}).get('name'),
+                'category': perfume.get('category'),
+                'gender': perfume.get('gender'),
+                'url': perfume.get('url'),
+            })
 
         for variant in perfume.get('variants', []):
-            variants.append({
-                'variant_id': variant.get('id'),
-                'perfume_id': perfume_id,
-                'price': variant.get('price'),
-                'size': extract_number(variant['size']),
-                'currency': variant.get('currency'),
-                'link': variant.get('link'),
-                'vendor': variant.get('vendor'),
-                'sku': variant.get('sku'),
-                'in_stock': variant.get('in_stock'),
-            })
-            
-    pd.DataFrame(perfumes).to_sql('perfumes', engine, if_exists='append', index=False)
-    pd.DataFrame(variants).to_sql('variants', engine, if_exists='append', index=False)
+            variant_id = str(variant.get('id'))
+            key = (variant_id, perfume_id)
 
+            if key not in existing_variant_keys:
+                variants.append({
+                    'variant_id': variant_id,
+                    'perfume_id': perfume_id,
+                    'price': variant.get('price'),
+                    'size': extract_number(variant['size']),
+                    'currency': variant.get('currency'),
+                    'link': variant.get('link'),
+                    'vendor': variant.get('vendor'),
+                    'sku': variant.get('sku'),
+                    'in_stock': variant.get('in_stock'),
+                })
+
+    if perfumes:
+        pd.DataFrame(perfumes).to_sql('perfumes', engine, if_exists='append', index=False)
+    if variants:
+        pd.DataFrame(variants).to_sql('variants', engine, if_exists='append', index=False)
 
     logger.info("Loaded %s data into DB!", os.path.basename(filepath))
+    
 load_json_to_db(DATA_JSON_ADOPT)
 load_json_to_db(DATA_JSON_HAHORD)
+load_json_to_db(DATA_JSON_LIQUIES)
