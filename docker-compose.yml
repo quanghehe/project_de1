@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   postgres:
     image: postgres:14
@@ -18,6 +16,17 @@ services:
     restart: always
     ports:
       - "8080:8080"
+
+  etl:
+    build:
+      context: ./extract_load
+      dockerfile: dockerfile
+    container_name: etl_container
+    env_file: .env
+    volumes:
+      - ./extract_load/data:/app/data
+    depends_on:
+      - postgres
 
 volumes:
   postgres_data:
