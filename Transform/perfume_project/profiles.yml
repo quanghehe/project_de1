@@ -1,0 +1,21 @@
+perfume_project:
+  target: local
+  outputs:
+
+    docker:
+      type: postgres
+      host: postgres
+      user: quang
+      password: q
+      port: 5432
+      dbname: product
+      schema: public
+
+    local:
+      type: postgres
+      host: localhost
+      user: quang
+      password: q
+      port: 5332
+      dbname: product
+      schema: public

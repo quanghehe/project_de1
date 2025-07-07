@@ -39,7 +39,6 @@ def load_json_to_db(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    # Đọc các ID đã có sẵn trong DB
     existing_perfume_ids = set(pd.read_sql("SELECT id FROM perfumes", engine)['id'])
     existing_variant_keys = set(
         pd.read_sql("SELECT variant_id, perfume_id FROM variants", engine)

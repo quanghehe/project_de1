@@ -11,12 +11,6 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - "8080:8080"
-
   etl:
     build:
       context: ./extract_load
@@ -29,6 +23,17 @@ services:
       - ./extract_load/data:/app/data
     depends_on:
       - postgres
+  dbt:
+    build:
+      context: ./transform/perfume_project
+      dockerfile: dockerfile
+    container_name: dbt_container
+    volumes:
+      - ./transform/perfume_project:/app
+    working_dir: /app
+    depends_on:
+      - postgres
+    entrypoint: ["tail", "-f", "/dev/null"]
 
 volumes:
   postgres_data:
