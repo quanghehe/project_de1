@@ -23,6 +23,8 @@ services:
       dockerfile: dockerfile
     container_name: etl_container
     env_file: .env
+    environment:
+    - ENV=docker 
     volumes:
       - ./extract_load/data:/app/data
     depends_on:
