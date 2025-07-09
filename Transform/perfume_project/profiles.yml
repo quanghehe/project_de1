@@ -1,5 +1,5 @@
 perfume_project:
-  target: local
+  target: docker
   outputs:
 
     docker:
