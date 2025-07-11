@@ -2,21 +2,9 @@ FROM ghcr.io/dbt-labs/dbt-postgres:1.7.6
 
 WORKDIR /app
 
-# Cài cron và dos2unix để đảm bảo định dạng LF
-RUN apt-get update && apt-get install -y cron dos2unix
+RUN apt-get update && apt-get install -y dos2unix
 
-# Copy toàn bộ source vào /app
 COPY . .
 
-# Copy cronjob file và đăng ký cronjob
-RUN dos2unix /app/cronjob && chmod 0644 /app/cronjob && crontab /app/cronjob
-
-# Tạo file log nếu chưa có
-RUN touch /var/log/cron.log
-
-# Copy entrypoint.sh vào và gán quyền chạy
-COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
-
-# Chạy script entrypoint (không dùng dbt trực tiếp)
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["dbt"]
+CMD ["run", "--profiles-dir", ".", "--project-dir", "."]

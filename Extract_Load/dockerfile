@@ -2,23 +2,9 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# Cài cron + dos2unix để xử lý định dạng dòng từ Windows
-RUN apt-get update && apt-get install -y cron dos2unix
-
-# Copy file cấu hình và cài đặt thư viện
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy toàn bộ mã nguồn + cronjob
 COPY . .
-COPY .env . 
 
-# Đưa file cronjob vào đúng vị trí và sửa định dạng dòng
-COPY cronjob /etc/cron.d/my-cron-job
-RUN dos2unix /etc/cron.d/my-cron-job && chmod 0644 /etc/cron.d/my-cron-job
-
-# Tạo log file
-RUN touch /var/log/cron.log
-
-# Chạy cron và theo dõi log
-CMD ["sh", "-c", "cron && tail -f /var/log/cron.log"]
+CMD ["python", "load_data/load_data_scapper.py"]
