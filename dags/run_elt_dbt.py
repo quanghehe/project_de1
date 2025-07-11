@@ -13,7 +13,8 @@ with DAG(
     dag_id= 'run_elt_dbt',
     default_args=default_args,
     start_date=datetime(2025,7 , 1),
-    schedule_interval='@daily'
+    schedule_interval='@daily',
+    max_active_runs=20
 ) as dag:
     run_etl = DockerOperator(
         task_id='run_etl',
@@ -28,7 +29,8 @@ with DAG(
     run_dbt = DockerOperator(
         task_id='run_dbt',
         image='project_de-dbt',
-        command='run --profiles-dir . --project-dir .',
+        command='-c "dbt clean && dbt run --profiles-dir . --project-dir . --full-refresh"',
+        entrypoint='sh',
         working_dir='/app',
         docker_url='unix://var/run/docker.sock',
         network_mode='project_de_default',

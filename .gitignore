@@ -2,7 +2,6 @@
 !.env.example
 .venv
 airflow
-logs/
 logs_*/
 logs_airflow/
 __pycache__

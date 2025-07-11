@@ -5,7 +5,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 from dotenv import load_dotenv
 import logging
-
+from sqlalchemy import Table, Column, MetaData, String, Float, Boolean, ForeignKey, inspect
+from sqlalchemy import ForeignKeyConstraint
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_JSON_ADOPT = os.path.join(BASE_DIR, "data", "adopt.json")
@@ -35,7 +36,41 @@ def extract_number(size_str):
     match = re.match(r"(\d+(\.\d+)?)", str(size_str))
     return float(match.group(1)) if match else None
 
+def create_tables_if_not_exist(engine):
+    inspector = inspect(engine)
+    metadata = MetaData()
+
+    if 'perfumes' not in inspector.get_table_names():
+        perfumes_table = Table('perfumes', metadata,
+            Column('id', String, primary_key=True),
+            Column('name', String),
+            Column('brand', String),
+            Column('category', String),
+            Column('gender', String),
+            Column('url', String)
+        )
+
+    if 'variants' not in inspector.get_table_names():
+        variants_table = Table('variants', metadata,
+            Column('variant_id', String, primary_key=True),
+            Column('perfume_id', String, primary_key=True),
+            Column('price', Float),
+            Column('size', Float),
+            Column('currency', String),
+            Column('link', String),
+            Column('vendor', String),
+            Column('sku', String),
+            Column('in_stock', Boolean),
+            ForeignKeyConstraint(['perfume_id'], ['perfumes.id'])
+        )
+
+    metadata.create_all(engine)
+
+
 def load_json_to_db(filepath: str):
+    
+    create_tables_if_not_exist(engine)
+    
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
