@@ -1,0 +1,1929 @@
+[
+    {
+        "id": "000000000007502457",
+        "name": "Voyage \u00e0 Paris",
+        "brand": {
+            "name": "Fragrance Du Bois"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/fragrance-du-bois-voyage-a-paris-extrait-de-parfum-100ml-000000000007502457",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007502457",
+                "id": "151447",
+                "price": 365.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/fragrance-du-bois-voyage-a-paris-extrait-de-parfum-100ml-000000000007502457",
+                "line": "Parfum",
+                "vendor": "Fragrance Du Bois",
+                "sku": "151447",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165760",
+                "updated_at": "2025-06-21T16:02:12.165765"
+            }
+        ]
+    },
+    {
+        "id": "000000000007745271",
+        "name": "Oud Maracuj\u00e1",
+        "brand": {
+            "name": "Maison Crivelli"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-crivelli-oud-maracuja-extrait-de-parfum-100ml-000000000007745271",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007745271",
+                "id": "1049756",
+                "price": 480.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-crivelli-oud-maracuja-extrait-de-parfum-100ml-000000000007745271",
+                "line": "Parfum",
+                "vendor": "Maison Crivelli",
+                "sku": "1049756",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165848",
+                "updated_at": "2025-06-21T16:02:12.165849"
+            }
+        ]
+    },
+    {
+        "id": "000000000001977073",
+        "name": "Tobacco Vanille",
+        "brand": {
+            "name": "TOM FORD"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/tom-ford-tobacco-vanille-eau-de-parfum-100ml-000000000001977073",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000001977073",
+                "id": "2933",
+                "price": 380.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/tom-ford-tobacco-vanille-eau-de-parfum-100ml-000000000001977073",
+                "line": "Parfum",
+                "vendor": "TOM FORD",
+                "sku": "2933",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165866",
+                "updated_at": "2025-06-21T16:02:12.165866"
+            }
+        ]
+    },
+    {
+        "id": "000000000007642385",
+        "name": "HOPE",
+        "brand": {
+            "name": "Frederic Malle"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/frederic-malle-hope-eau-de-parfum-50ml-000000000007642385",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007642385",
+                "id": "552890",
+                "price": 470.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/frederic-malle-hope-eau-de-parfum-50ml-000000000007642385",
+                "line": "Parfum",
+                "vendor": "Frederic Malle",
+                "sku": "552890",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165878",
+                "updated_at": "2025-06-21T16:02:12.165878"
+            }
+        ]
+    },
+    {
+        "id": "000000000005170356",
+        "name": "Baccarat Rouge 540",
+        "brand": {
+            "name": "Maison Francis Kurkdjian"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-70ml-000000000005170356",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005170356",
+                "id": "16220",
+                "price": 315.0,
+                "currency": "USD",
+                "size": "70",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-70ml-000000000005170356",
+                "line": "Parfum",
+                "vendor": "Maison Francis Kurkdjian",
+                "sku": "16220",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165893",
+                "updated_at": "2025-06-21T16:02:12.165893"
+            }
+        ]
+    },
+    {
+        "id": "000000000004601938",
+        "name": "Erba Pura",
+        "brand": {
+            "name": "Xerjoff"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/xerjoff-erba-pura-eau-de-parfum-100ml-000000000004601938",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000004601938",
+                "id": "5086",
+                "price": 260.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/xerjoff-erba-pura-eau-de-parfum-100ml-000000000004601938",
+                "line": "Parfum",
+                "vendor": "Xerjoff",
+                "sku": "5086",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165905",
+                "updated_at": "2025-06-21T16:02:12.165906"
+            }
+        ]
+    },
+    {
+        "id": "000000000007597119",
+        "name": "Tub\u00e9reuse Astrale",
+        "brand": {
+            "name": "Maison Crivelli"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-crivelli-tubereuse-astrale-extrait-de-parfum-50ml-000000000007597119",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007597119",
+                "id": "621528",
+                "price": 260.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-crivelli-tubereuse-astrale-extrait-de-parfum-50ml-000000000007597119",
+                "line": "Parfum",
+                "vendor": "Maison Crivelli",
+                "sku": "621528",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165918",
+                "updated_at": "2025-06-21T16:02:12.165918"
+            }
+        ]
+    },
+    {
+        "id": "000000000005320991",
+        "name": "Aventus For Her",
+        "brand": {
+            "name": "Creed"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/creed-aventus-for-her-eau-de-parfum-75ml-000000000005320991",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005320991",
+                "id": "16920",
+                "price": 340.0,
+                "currency": "USD",
+                "size": "75",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/creed-aventus-for-her-eau-de-parfum-75ml-000000000005320991",
+                "line": "Parfum",
+                "vendor": "Creed",
+                "sku": "16920",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165929",
+                "updated_at": "2025-06-21T16:02:12.165930"
+            }
+        ]
+    },
+    {
+        "id": "000000000007773057",
+        "name": "Le Vestiaire des Parfums Tuxedo",
+        "brand": {
+            "name": "YSL"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/ysl-le-vestiaire-des-parfums-tuxedo-eau-de-parfum-75ml-000000000007773057",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007773057",
+                "id": "1193619",
+                "price": 375.0,
+                "currency": "USD",
+                "size": "125",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/ysl-le-vestiaire-des-parfums-tuxedo-eau-de-parfum-75ml-000000000007773057",
+                "line": "Parfum",
+                "vendor": "YSL",
+                "sku": "1193619",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165943",
+                "updated_at": "2025-06-21T16:02:12.165943"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007773057",
+                "id": "1193604",
+                "price": 280.0,
+                "currency": "USD",
+                "size": "75",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/ysl-le-vestiaire-des-parfums-tuxedo-eau-de-parfum-75ml-000000000007773057",
+                "line": "Parfum",
+                "vendor": "YSL",
+                "sku": "1193604",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165949",
+                "updated_at": "2025-06-21T16:02:12.165950"
+            }
+        ]
+    },
+    {
+        "id": "000000000006635027",
+        "name": "Orza",
+        "brand": {
+            "name": "TIZIANA TERENZI"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/tiziana-terenzi-orza-extrait-de-parfum-100ml-000000000006635027",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006635027",
+                "id": "45440",
+                "price": 440.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/tiziana-terenzi-orza-extrait-de-parfum-100ml-000000000006635027",
+                "line": "Parfum",
+                "vendor": "TIZIANA TERENZI",
+                "sku": "45440",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165959",
+                "updated_at": "2025-06-21T16:02:12.165959"
+            }
+        ]
+    },
+    {
+        "id": "000000000005660730",
+        "name": "Sultanate of Oman Aoud Parfum",
+        "brand": {
+            "name": "Roja"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/roja-sultanate-of-oman-aoud-parfum-50ml-000000000005660730",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005660730",
+                "id": "17908",
+                "price": 385.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/roja-sultanate-of-oman-aoud-parfum-50ml-000000000005660730",
+                "line": "Parfum",
+                "vendor": "Roja",
+                "sku": "17908",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165971",
+                "updated_at": "2025-06-21T16:02:12.165972"
+            }
+        ]
+    },
+    {
+        "id": "000000000007573620",
+        "name": "Sweetie Aoud Perfume",
+        "brand": {
+            "name": "Roja"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/roja-sweetie-aoud-perfume-50ml-000000000007573620",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007573620",
+                "id": "249772",
+                "price": 385.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/roja-sweetie-aoud-perfume-50ml-000000000007573620",
+                "line": "Parfum",
+                "vendor": "Roja",
+                "sku": "249772",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165982",
+                "updated_at": "2025-06-21T16:02:12.165982"
+            }
+        ]
+    },
+    {
+        "id": "000000000007740201",
+        "name": "Velvet Zafferano",
+        "brand": {
+            "name": "Dolce & Gabbana"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/dolce-and-gabbana-velvet-zafferano-eau-de-parfum-100ml-000000000007740201",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007740201",
+                "id": "1018960",
+                "price": 345.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/dolce-and-gabbana-velvet-zafferano-eau-de-parfum-100ml-000000000007740201",
+                "line": "Parfum",
+                "vendor": "Dolce & Gabbana",
+                "sku": "1018960",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.165994",
+                "updated_at": "2025-06-21T16:02:12.165994"
+            }
+        ]
+    },
+    {
+        "id": "000000000007266634",
+        "name": "Hibiscus Mahaj\u00e1d Perfume Extract",
+        "brand": {
+            "name": "Maison Crivelli"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-crivelli-hibiscus-mahajad-perfume-extract-50ml-000000000007266634",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007266634",
+                "id": "483219",
+                "price": 265.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-crivelli-hibiscus-mahajad-perfume-extract-50ml-000000000007266634",
+                "line": "Parfum",
+                "vendor": "Maison Crivelli",
+                "sku": "483219",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166008",
+                "updated_at": "2025-06-21T16:02:12.166009"
+            }
+        ]
+    },
+    {
+        "id": "000000000007645338",
+        "name": "Valaya",
+        "brand": {
+            "name": "Parfums de Marly"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/parfums-de-marly-valaya-eau-de-parfum-30ml-000000000007645338",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007645338",
+                "id": "1215",
+                "price": 210.0,
+                "currency": "USD",
+                "size": "30",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/parfums-de-marly-valaya-eau-de-parfum-30ml-000000000007645338",
+                "line": "Parfum",
+                "vendor": "Parfums de Marly",
+                "sku": "1215",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166018",
+                "updated_at": "2025-06-21T16:02:12.166019"
+            }
+        ]
+    },
+    {
+        "id": "000000000006384734",
+        "name": "Megamare",
+        "brand": {
+            "name": "Orto Parisi"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/orto-parisi-megamare-extrait-de-parfum-50ml-000000000006384734",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006384734",
+                "id": "45857",
+                "price": 195.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/orto-parisi-megamare-extrait-de-parfum-50ml-000000000006384734",
+                "line": "Parfum",
+                "vendor": "Orto Parisi",
+                "sku": "45857",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166029",
+                "updated_at": "2025-06-21T16:02:12.166029"
+            }
+        ]
+    },
+    {
+        "id": "000000000007655866",
+        "name": "Ganymede",
+        "brand": {
+            "name": "Marc-Antoine Barrois"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/marc-antoine-barrois-ganymede-eau-de-parfum-100ml-000000000007655866",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007655866",
+                "id": "579748",
+                "price": 245.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/marc-antoine-barrois-ganymede-eau-de-parfum-100ml-000000000007655866",
+                "line": "Parfum",
+                "vendor": "Marc-Antoine Barrois",
+                "sku": "579748",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166039",
+                "updated_at": "2025-06-21T16:02:12.166039"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007655866",
+                "id": "594257",
+                "price": 140.0,
+                "currency": "USD",
+                "size": "30",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/marc-antoine-barrois-ganymede-eau-de-parfum-100ml-000000000007655866",
+                "line": "Parfum",
+                "vendor": "Marc-Antoine Barrois",
+                "sku": "594257",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166045",
+                "updated_at": "2025-06-21T16:02:12.166046"
+            }
+        ]
+    },
+    {
+        "id": "000000000005790326",
+        "name": "New York Nights",
+        "brand": {
+            "name": "Bond No. 9"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/bond-no-9-new-york-nights-eau-de-parfum-100ml-000000000005790326",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005790326",
+                "id": "26567",
+                "price": 490.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/bond-no-9-new-york-nights-eau-de-parfum-100ml-000000000005790326",
+                "line": "Parfum",
+                "vendor": "Bond No. 9",
+                "sku": "26567",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166056",
+                "updated_at": "2025-06-21T16:02:12.166057"
+            }
+        ]
+    },
+    {
+        "id": "000000000007792890",
+        "name": "Opulence Perfume",
+        "brand": {
+            "name": "Boadicea The Victorious"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/boadicea-the-victorious-opulence-perfume-100ml-000000000007792890",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007792890",
+                "id": "1291148",
+                "price": 1800.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/boadicea-the-victorious-opulence-perfume-100ml-000000000007792890",
+                "line": "Parfum",
+                "vendor": "Boadicea The Victorious",
+                "sku": "1291148",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166066",
+                "updated_at": "2025-06-21T16:02:12.166066"
+            }
+        ]
+    },
+    {
+        "id": "000000000007745270",
+        "name": "Safran Secret Pure Perfume",
+        "brand": {
+            "name": "Maison Crivelli"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-crivelli-safran-secret-pure-perfume-50ml-000000000007745270",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007745270",
+                "id": "1049746",
+                "price": 280.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-crivelli-safran-secret-pure-perfume-50ml-000000000007745270",
+                "line": "Parfum",
+                "vendor": "Maison Crivelli",
+                "sku": "1049746",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166078",
+                "updated_at": "2025-06-21T16:02:12.166078"
+            }
+        ]
+    },
+    {
+        "id": "000000000007311210",
+        "name": "Guidance",
+        "brand": {
+            "name": "Amouage"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/amouage-guidance-eau-de-parfum-100ml-000000000007311210",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007311210",
+                "id": "492381",
+                "price": 410.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/amouage-guidance-eau-de-parfum-100ml-000000000007311210",
+                "line": "Parfum",
+                "vendor": "Amouage",
+                "sku": "492381",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166087",
+                "updated_at": "2025-06-21T16:02:12.166088"
+            }
+        ]
+    },
+    {
+        "id": "000000000007655869",
+        "name": "Tilia",
+        "brand": {
+            "name": "Marc-Antoine Barrois"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/marc-antoine-barrois-tilia-eau-de-parfum-100ml-000000000007655869",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007655869",
+                "id": "580305",
+                "price": 245.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/marc-antoine-barrois-tilia-eau-de-parfum-100ml-000000000007655869",
+                "line": "Parfum",
+                "vendor": "Marc-Antoine Barrois",
+                "sku": "580305",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166097",
+                "updated_at": "2025-06-21T16:02:12.166097"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007655869",
+                "id": "601562",
+                "price": 140.0,
+                "currency": "USD",
+                "size": "30",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/marc-antoine-barrois-tilia-eau-de-parfum-100ml-000000000007655869",
+                "line": "Parfum",
+                "vendor": "Marc-Antoine Barrois",
+                "sku": "601562",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166104",
+                "updated_at": "2025-06-21T16:02:12.166105"
+            }
+        ]
+    },
+    {
+        "id": "000000000007812915",
+        "name": "Vanilla Mistral Parfum",
+        "brand": {
+            "name": "Ormonde Jayne"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/ormonde-jayne-vanilla-mistral-parfum-88ml-000000000007812915",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007812915",
+                "id": "1426768",
+                "price": 350.0,
+                "currency": "USD",
+                "size": "88",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/ormonde-jayne-vanilla-mistral-parfum-88ml-000000000007812915",
+                "line": "Parfum",
+                "vendor": "Ormonde Jayne",
+                "sku": "1426768",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166115",
+                "updated_at": "2025-06-21T16:02:12.166116"
+            }
+        ]
+    },
+    {
+        "id": "000000000005408160",
+        "name": "COROMANDEL Les Exclusifs de CHANEL",
+        "brand": {
+            "name": "CHANEL"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/chanel-coromandel-les-exclusifs-de-chanel-eau-de-parfum-75ml-000000000005408160",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005408160",
+                "id": "18083",
+                "price": 505.0,
+                "currency": "USD",
+                "size": "200",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/chanel-coromandel-les-exclusifs-de-chanel-eau-de-parfum-75ml-000000000005408160",
+                "line": "Parfum",
+                "vendor": "CHANEL",
+                "sku": "18083",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166129",
+                "updated_at": "2025-06-21T16:02:12.166130"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005408160",
+                "id": "18038",
+                "price": 305.0,
+                "currency": "USD",
+                "size": "75",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/chanel-coromandel-les-exclusifs-de-chanel-eau-de-parfum-75ml-000000000005408160",
+                "line": "Parfum",
+                "vendor": "CHANEL",
+                "sku": "18038",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166136",
+                "updated_at": "2025-06-21T16:02:12.166137"
+            }
+        ]
+    },
+    {
+        "id": "000000000005988277",
+        "name": "Apr\u00e8s L'Amour No.4",
+        "brand": {
+            "name": "THOMAS KOSMALA"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/thomas-kosmala-apres-lamour-no4-eau-de-parfum-100ml-000000000005988277",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005988277",
+                "id": "24209",
+                "price": 205.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/thomas-kosmala-apres-lamour-no4-eau-de-parfum-100ml-000000000005988277",
+                "line": "Parfum",
+                "vendor": "THOMAS KOSMALA",
+                "sku": "24209",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166148",
+                "updated_at": "2025-06-21T16:02:12.166148"
+            }
+        ]
+    },
+    {
+        "id": "000000000007819399",
+        "name": "Candy Dust",
+        "brand": {
+            "name": "BORNTOSTANDOUT"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/borntostandout-candy-dust-eau-de-toilette-100ml-000000000007819399",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007819399",
+                "id": "1454172",
+                "price": 245.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/borntostandout-candy-dust-eau-de-toilette-100ml-000000000007819399",
+                "line": "Parfum",
+                "vendor": "BORNTOSTANDOUT",
+                "sku": "1454172",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166158",
+                "updated_at": "2025-06-21T16:02:12.166159"
+            }
+        ]
+    },
+    {
+        "id": "000000000005424778",
+        "name": "Grand Soir",
+        "brand": {
+            "name": "Maison Francis Kurkdjian"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-grand-soir-eau-de-parfum-70ml-000000000005424778",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005424778",
+                "id": "61291",
+                "price": 460.0,
+                "currency": "USD",
+                "size": "200",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-grand-soir-eau-de-parfum-70ml-000000000005424778",
+                "line": "Parfum",
+                "vendor": "Maison Francis Kurkdjian",
+                "sku": "61291",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166168",
+                "updated_at": "2025-06-21T16:02:12.166169"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005424778",
+                "id": "19176",
+                "price": 235.0,
+                "currency": "USD",
+                "size": "70",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-grand-soir-eau-de-parfum-70ml-000000000005424778",
+                "line": "Parfum",
+                "vendor": "Maison Francis Kurkdjian",
+                "sku": "19176",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166175",
+                "updated_at": "2025-06-21T16:02:12.166176"
+            }
+        ]
+    },
+    {
+        "id": "000000000007498664",
+        "name": "Intense Red Tobacco",
+        "brand": {
+            "name": "MANCERA"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/mancera-intense-red-tobacco-eau-de-parfum-120ml-000000000007498664",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007498664",
+                "id": "148272",
+                "price": 140.0,
+                "currency": "USD",
+                "size": "120",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/mancera-intense-red-tobacco-eau-de-parfum-120ml-000000000007498664",
+                "line": "Parfum",
+                "vendor": "MANCERA",
+                "sku": "148272",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166187",
+                "updated_at": "2025-06-21T16:02:12.166187"
+            }
+        ]
+    },
+    {
+        "id": "000000000005573587",
+        "name": "Delina",
+        "brand": {
+            "name": "Parfums de Marly"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/parfums-de-marly-delina-eau-de-parfum-75ml-000000000005573587",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005573587",
+                "id": "19532",
+                "price": 325.0,
+                "currency": "USD",
+                "size": "75",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/parfums-de-marly-delina-eau-de-parfum-75ml-000000000005573587",
+                "line": "Parfum",
+                "vendor": "Parfums de Marly",
+                "sku": "19532",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166196",
+                "updated_at": "2025-06-21T16:02:12.166197"
+            }
+        ]
+    },
+    {
+        "id": "000000000007604400",
+        "name": "Joyphoria",
+        "brand": {
+            "name": "Charlotte Tilbury"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/charlotte-tilbury-joyphoria-eau-de-parfum-100ml-000000000007604400",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007604400",
+                "id": "652476",
+                "price": 115.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/charlotte-tilbury-joyphoria-eau-de-parfum-100ml-000000000007604400",
+                "line": "Parfum",
+                "vendor": "Charlotte Tilbury",
+                "sku": "652476",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166206",
+                "updated_at": "2025-06-21T16:02:12.166207"
+            }
+        ]
+    },
+    {
+        "id": "000000000007131453",
+        "name": "Vanille Antique",
+        "brand": {
+            "name": "Byredo"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/byredo-vanille-antique-extrait-de-parfum-50ml-000000000007131453",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007131453",
+                "id": "114864",
+                "price": 355.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/byredo-vanille-antique-extrait-de-parfum-50ml-000000000007131453",
+                "line": "Parfum",
+                "vendor": "Byredo",
+                "sku": "114864",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166217",
+                "updated_at": "2025-06-21T16:02:12.166217"
+            }
+        ]
+    },
+    {
+        "id": "000000000007155686",
+        "name": "Molecule 01 + Patchouli",
+        "brand": {
+            "name": "Escentric Molecules"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/escentric-molecules-molecule-01-patchouli-eau-de-toilette-100ml-000000000007155686",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007155686",
+                "id": "295954",
+                "price": 160.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/escentric-molecules-molecule-01-patchouli-eau-de-toilette-100ml-000000000007155686",
+                "line": "Parfum",
+                "vendor": "Escentric Molecules",
+                "sku": "295954",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166229",
+                "updated_at": "2025-06-21T16:02:12.166229"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007155686",
+                "id": "307797",
+                "price": 82.0,
+                "currency": "USD",
+                "size": "30",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/escentric-molecules-molecule-01-patchouli-eau-de-toilette-100ml-000000000007155686",
+                "line": "Parfum",
+                "vendor": "Escentric Molecules",
+                "sku": "307797",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166235",
+                "updated_at": "2025-06-21T16:02:12.166236"
+            }
+        ]
+    },
+    {
+        "id": "000000000006152624",
+        "name": "Oud for Greatness",
+        "brand": {
+            "name": "Initio Parfums Priv\u00e9s"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/initio-parfums-prives-oud-for-greatness-eau-de-parfum-000000000006152624",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006152624",
+                "id": "42512",
+                "price": 405.0,
+                "currency": "USD",
+                "size": "90",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/initio-parfums-prives-oud-for-greatness-eau-de-parfum-000000000006152624",
+                "line": "Parfum",
+                "vendor": "Initio Parfums Priv\u00e9s",
+                "sku": "42512",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166246",
+                "updated_at": "2025-06-21T16:02:12.166247"
+            }
+        ]
+    },
+    {
+        "id": "000000000007670469",
+        "name": "Old Fashioned Refillable",
+        "brand": {
+            "name": "Kilian"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/kilian-old-fashioned-refillable-eau-de-parfum-100ml-000000000007670469",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007670469",
+                "id": "358629",
+                "price": 395.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/kilian-old-fashioned-refillable-eau-de-parfum-100ml-000000000007670469",
+                "line": "Parfum",
+                "vendor": "Kilian",
+                "sku": "358629",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166258",
+                "updated_at": "2025-06-21T16:02:12.166259"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007670469",
+                "id": "350209",
+                "price": 270.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/kilian-old-fashioned-refillable-eau-de-parfum-100ml-000000000007670469",
+                "line": "Parfum",
+                "vendor": "Kilian",
+                "sku": "350209",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166265",
+                "updated_at": "2025-06-21T16:02:12.166265"
+            }
+        ]
+    },
+    {
+        "id": "000000000007492697",
+        "name": "Oudgasm Caf\u00e9 Oud 19Intense",
+        "brand": {
+            "name": "Kayali"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/kayali-oudgasm-cafe-oud-19-eau-de-parfum-intense-50ml-000000000007492697",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007492697",
+                "id": "123698",
+                "price": 155.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/kayali-oudgasm-cafe-oud-19-eau-de-parfum-intense-50ml-000000000007492697",
+                "line": "Parfum",
+                "vendor": "Kayali",
+                "sku": "123698",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166276",
+                "updated_at": "2025-06-21T16:02:12.166277"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007492697",
+                "id": "127851",
+                "price": 45.0,
+                "currency": "USD",
+                "size": "10",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/kayali-oudgasm-cafe-oud-19-eau-de-parfum-intense-50ml-000000000007492697",
+                "line": "Parfum",
+                "vendor": "Kayali",
+                "sku": "127851",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166283",
+                "updated_at": "2025-06-21T16:02:12.166283"
+            }
+        ]
+    },
+    {
+        "id": "000000000007604401",
+        "name": "Love Frequency",
+        "brand": {
+            "name": "Charlotte Tilbury"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/charlotte-tilbury-love-frequency-eau-de-parfum-100ml-000000000007604401",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007604401",
+                "id": "610399",
+                "price": 115.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/charlotte-tilbury-love-frequency-eau-de-parfum-100ml-000000000007604401",
+                "line": "Parfum",
+                "vendor": "Charlotte Tilbury",
+                "sku": "610399",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166293",
+                "updated_at": "2025-06-21T16:02:12.166294"
+            }
+        ]
+    },
+    {
+        "id": "000000000006491743",
+        "name": "Santal 33",
+        "brand": {
+            "name": "Le Labo"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/le-labo-santal-33-eau-de-parfum-100ml-000000000006491743",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006491743",
+                "id": "89511",
+                "price": 290.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/le-labo-santal-33-eau-de-parfum-100ml-000000000006491743",
+                "line": "Parfum",
+                "vendor": "Le Labo",
+                "sku": "89511",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166303",
+                "updated_at": "2025-06-21T16:02:12.166304"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006491743",
+                "id": "89039",
+                "price": 215.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/le-labo-santal-33-eau-de-parfum-100ml-000000000006491743",
+                "line": "Parfum",
+                "vendor": "Le Labo",
+                "sku": "89039",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166310",
+                "updated_at": "2025-06-21T16:02:12.166311"
+            }
+        ]
+    },
+    {
+        "id": "000000000006381082",
+        "name": "Erba Pura",
+        "brand": {
+            "name": "Xerjoff"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/xerjoff-erba-pura-eau-de-parfum-50ml-000000000006381082",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006381082",
+                "id": "5",
+                "price": 180.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/xerjoff-erba-pura-eau-de-parfum-50ml-000000000006381082",
+                "line": "Parfum",
+                "vendor": "Xerjoff",
+                "sku": "5",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166320",
+                "updated_at": "2025-06-21T16:02:12.166321"
+            }
+        ]
+    },
+    {
+        "id": "000000000007797010",
+        "name": "Purpose 50 Extraits",
+        "brand": {
+            "name": "Amouage"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/amouage-purpose-50-extraits-eau-de-parfum-100ml-000000000007797010",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007797010",
+                "id": "1309123",
+                "price": 540.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/amouage-purpose-50-extraits-eau-de-parfum-100ml-000000000007797010",
+                "line": "Parfum",
+                "vendor": "Amouage",
+                "sku": "1309123",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166332",
+                "updated_at": "2025-06-21T16:02:12.166332"
+            }
+        ]
+    },
+    {
+        "id": "000000000005783540",
+        "name": "Baccarat Rouge 540",
+        "brand": {
+            "name": "Maison Francis Kurkdjian"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-70ml-000000000005783540",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000005783540",
+                "id": "25506",
+                "price": 450.0,
+                "currency": "USD",
+                "size": "70",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-70ml-000000000005783540",
+                "line": "Parfum",
+                "vendor": "Maison Francis Kurkdjian",
+                "sku": "25506",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166343",
+                "updated_at": "2025-06-21T16:02:12.166344"
+            }
+        ]
+    },
+    {
+        "id": "000000000006349698",
+        "name": "Tabit",
+        "brand": {
+            "name": "TIZIANA TERENZI"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/tiziana-terenzi-tabit-extrait-de-parfum-100ml-000000000006349698",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006349698",
+                "id": "56660",
+                "price": 395.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/tiziana-terenzi-tabit-extrait-de-parfum-100ml-000000000006349698",
+                "line": "Parfum",
+                "vendor": "TIZIANA TERENZI",
+                "sku": "56660",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166354",
+                "updated_at": "2025-06-21T16:02:12.166354"
+            }
+        ]
+    },
+    {
+        "id": "000000000007155669",
+        "name": "Molecule 01",
+        "brand": {
+            "name": "Escentric Molecules"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/escentric-molecules-molecule-01-eau-de-toilette-100ml-000000000007155669",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007155669",
+                "id": "278418",
+                "price": 145.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/escentric-molecules-molecule-01-eau-de-toilette-100ml-000000000007155669",
+                "line": "Parfum",
+                "vendor": "Escentric Molecules",
+                "sku": "278418",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166364",
+                "updated_at": "2025-06-21T16:02:12.166365"
+            }
+        ]
+    },
+    {
+        "id": "000000000007137315",
+        "name": "Love, Don't Be ShyCarafe",
+        "brand": {
+            "name": "Kilian"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/kilian-love,-dont-be-shy-eau-de-parfum-carafe-250ml-000000000007137315",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007137315",
+                "id": "460",
+                "price": 725.0,
+                "currency": "USD",
+                "size": "250",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/kilian-love,-dont-be-shy-eau-de-parfum-carafe-250ml-000000000007137315",
+                "line": "Parfum",
+                "vendor": "Kilian",
+                "sku": "460",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166376",
+                "updated_at": "2025-06-21T16:02:12.166376"
+            }
+        ]
+    },
+    {
+        "id": "000000000007241751",
+        "name": "Namaqualand Pure Perfume",
+        "brand": {
+            "name": "Aqualis"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/aqualis-namaqualand-pure-perfume-50ml-000000000007241751",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007241751",
+                "id": "461965",
+                "price": 105.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/aqualis-namaqualand-pure-perfume-50ml-000000000007241751",
+                "line": "Parfum",
+                "vendor": "Aqualis",
+                "sku": "461965",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166386",
+                "updated_at": "2025-06-21T16:02:12.166387"
+            }
+        ]
+    },
+    {
+        "id": "000000000007314822",
+        "name": "No.10 D\u00e9sir du Coeur",
+        "brand": {
+            "name": "THOMAS KOSMALA"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/thomas-kosmala-no10-desir-du-coeur-elixir-de-parfum-100ml-000000000007314822",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007314822",
+                "id": "489769",
+                "price": 210.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/thomas-kosmala-no10-desir-du-coeur-elixir-de-parfum-100ml-000000000007314822",
+                "line": "Parfum",
+                "vendor": "THOMAS KOSMALA",
+                "sku": "489769",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166398",
+                "updated_at": "2025-06-21T16:02:12.166398"
+            }
+        ]
+    },
+    {
+        "id": "000000000006534453",
+        "name": "Arabians Tonka",
+        "brand": {
+            "name": "Montale"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/montale-arabians-tonka-eau-de-parfum-100ml-000000000006534453",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006534453",
+                "id": "77647",
+                "price": 160.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/montale-arabians-tonka-eau-de-parfum-100ml-000000000006534453",
+                "line": "Parfum",
+                "vendor": "Montale",
+                "sku": "77647",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166408",
+                "updated_at": "2025-06-21T16:02:12.166409"
+            }
+        ]
+    },
+    {
+        "id": "000000000007766656",
+        "name": "Impadia",
+        "brand": {
+            "name": "BDK Parfums"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/bdk-parfums-impadia-eau-de-parfum-100ml-000000000007766656",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007766656",
+                "id": "1146477",
+                "price": 245.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/bdk-parfums-impadia-eau-de-parfum-100ml-000000000007766656",
+                "line": "Parfum",
+                "vendor": "BDK Parfums",
+                "sku": "1146477",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166418",
+                "updated_at": "2025-06-21T16:02:12.166418"
+            }
+        ]
+    },
+    {
+        "id": "000000000007806567",
+        "name": "Xplicit Vanilla",
+        "brand": {
+            "name": "MANCERA"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/mancera-xplicit-vanilla-eau-de-parfum-120ml-000000000007806567",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007806567",
+                "id": "1396409",
+                "price": 170.0,
+                "currency": "USD",
+                "size": "120",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/mancera-xplicit-vanilla-eau-de-parfum-120ml-000000000007806567",
+                "line": "Parfum",
+                "vendor": "MANCERA",
+                "sku": "1396409",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166428",
+                "updated_at": "2025-06-21T16:02:12.166428"
+            }
+        ]
+    },
+    {
+        "id": "000000000007642384",
+        "name": "HOPE",
+        "brand": {
+            "name": "Frederic Malle"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/frederic-malle-hope-eau-de-parfum-100ml-000000000007642384",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007642384",
+                "id": "545572",
+                "price": 670.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/frederic-malle-hope-eau-de-parfum-100ml-000000000007642384",
+                "line": "Parfum",
+                "vendor": "Frederic Malle",
+                "sku": "545572",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166438",
+                "updated_at": "2025-06-21T16:02:12.166438"
+            }
+        ]
+    },
+    {
+        "id": "000000000007720708",
+        "name": "Rude Oud Parfum de Extrait",
+        "brand": {
+            "name": "Fragrance Du Bois"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/fragrance-du-bois-rude-oud-parfum-de-extrait-50ml-000000000007720708",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007720708",
+                "id": "917463",
+                "price": 270.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/fragrance-du-bois-rude-oud-parfum-de-extrait-50ml-000000000007720708",
+                "line": "Parfum",
+                "vendor": "Fragrance Du Bois",
+                "sku": "917463",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166449",
+                "updated_at": "2025-06-21T16:02:12.166449"
+            }
+        ]
+    },
+    {
+        "id": "000000000007793765",
+        "name": "L'Eau des Hesp\u00e9rides",
+        "brand": {
+            "name": "Diptyque"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/diptyque-leau-des-hesperides-eau-de-toilette-100ml-000000000007793765",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007793765",
+                "id": "1294695",
+                "price": 175.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/diptyque-leau-des-hesperides-eau-de-toilette-100ml-000000000007793765",
+                "line": "Parfum",
+                "vendor": "Diptyque",
+                "sku": "1294695",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166460",
+                "updated_at": "2025-06-21T16:02:12.166461"
+            }
+        ]
+    },
+    {
+        "id": "000000000007156859",
+        "name": "Baccarat Rouge 540",
+        "brand": {
+            "name": "Maison Francis Kurkdjian"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-35ml-000000000007156859",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007156859",
+                "id": "277810",
+                "price": 195.0,
+                "currency": "USD",
+                "size": "35",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-35ml-000000000007156859",
+                "line": "Parfum",
+                "vendor": "Maison Francis Kurkdjian",
+                "sku": "277810",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166471",
+                "updated_at": "2025-06-21T16:02:12.166472"
+            }
+        ]
+    },
+    {
+        "id": "000000000004683863",
+        "name": "La Vie Est Belle",
+        "brand": {
+            "name": "Lanc\u00f4me"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/lancome-la-vie-est-belle-eau-de-parfum-100ml-000000000004683863",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000004683863",
+                "id": "7363",
+                "price": 115.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/lancome-la-vie-est-belle-eau-de-parfum-100ml-000000000004683863",
+                "line": "Parfum",
+                "vendor": "Lanc\u00f4me",
+                "sku": "7363",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166482",
+                "updated_at": "2025-06-21T16:02:12.166483"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000004683863",
+                "id": "5867",
+                "price": 125.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/lancome-la-vie-est-belle-eau-de-parfum-100ml-000000000004683863",
+                "line": "Parfum",
+                "vendor": "Lanc\u00f4me",
+                "sku": "5867",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166488",
+                "updated_at": "2025-06-21T16:02:12.166489"
+            },
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000004683863",
+                "id": "5239",
+                "price": 88.0,
+                "currency": "USD",
+                "size": "30",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/lancome-la-vie-est-belle-eau-de-parfum-100ml-000000000004683863",
+                "line": "Parfum",
+                "vendor": "Lanc\u00f4me",
+                "sku": "5239",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166495",
+                "updated_at": "2025-06-21T16:02:12.166495"
+            }
+        ]
+    },
+    {
+        "id": "000000000007148555",
+        "name": "Feminity",
+        "brand": {
+            "name": "MANCERA"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/mancera-feminity-eau-de-parfum-60ml-000000000007148555",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007148555",
+                "id": "276793",
+                "price": 66.0,
+                "currency": "USD",
+                "size": "60",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/mancera-feminity-eau-de-parfum-60ml-000000000007148555",
+                "line": "Parfum",
+                "vendor": "MANCERA",
+                "sku": "276793",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166504",
+                "updated_at": "2025-06-21T16:02:12.166504"
+            }
+        ]
+    },
+    {
+        "id": "000000000007498001",
+        "name": "Animalique",
+        "brand": {
+            "name": "Byredo"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/byredo-animalique-eau-de-parfum-100ml-000000000007498001",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007498001",
+                "id": "143175",
+                "price": 280.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/byredo-animalique-eau-de-parfum-100ml-000000000007498001",
+                "line": "Parfum",
+                "vendor": "Byredo",
+                "sku": "143175",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166513",
+                "updated_at": "2025-06-21T16:02:12.166514"
+            }
+        ]
+    },
+    {
+        "id": "000000000007431505",
+        "name": "Brompton Immortals",
+        "brand": {
+            "name": "Ex Nihilo"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/ex-nihilo-brompton-immortals-extrait-de-parfum-100ml-000000000007431505",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007431505",
+                "id": "47667",
+                "price": 540.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/ex-nihilo-brompton-immortals-extrait-de-parfum-100ml-000000000007431505",
+                "line": "Parfum",
+                "vendor": "Ex Nihilo",
+                "sku": "47667",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166524",
+                "updated_at": "2025-06-21T16:02:12.166524"
+            }
+        ]
+    },
+    {
+        "id": "000000000003578806",
+        "name": "ROJA Haute Luxe Parfum",
+        "brand": {
+            "name": "Roja"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/roja-roja-haute-luxe-parfum-100ml-000000000003578806",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000003578806",
+                "id": "6577",
+                "price": 3200.0,
+                "currency": "USD",
+                "size": "100",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/roja-roja-haute-luxe-parfum-100ml-000000000003578806",
+                "line": "Parfum",
+                "vendor": "Roja",
+                "sku": "6577",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166534",
+                "updated_at": "2025-06-21T16:02:12.166535"
+            }
+        ]
+    },
+    {
+        "id": "000000000007397306",
+        "name": "Oud Maracuj\u00e1",
+        "brand": {
+            "name": "Maison Crivelli"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/maison-crivelli-oud-maracuja-extrait-de-parfum-50ml-000000000007397306",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007397306",
+                "id": "12523",
+                "price": 280.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/maison-crivelli-oud-maracuja-extrait-de-parfum-50ml-000000000007397306",
+                "line": "Parfum",
+                "vendor": "Maison Crivelli",
+                "sku": "12523",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166544",
+                "updated_at": "2025-06-21T16:02:12.166545"
+            }
+        ]
+    },
+    {
+        "id": "000000000006150648",
+        "name": "Foug\u00e8re D'Argent",
+        "brand": {
+            "name": "TOM FORD"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/tom-ford-fougere-dargent-eau-de-parfum-50ml-000000000006150648",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000006150648",
+                "id": "45773",
+                "price": 170.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/tom-ford-fougere-dargent-eau-de-parfum-50ml-000000000006150648",
+                "line": "Parfum",
+                "vendor": "TOM FORD",
+                "sku": "45773",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166554",
+                "updated_at": "2025-06-21T16:02:12.166555"
+            }
+        ]
+    },
+    {
+        "id": "000000000007174672",
+        "name": "God of Fire",
+        "brand": {
+            "name": "Stephane Humbert Lucas"
+        },
+        "category": "Parfum",
+        "gender": "Female",
+        "url": "https://www.harrods.com/en-us/p/stephane-humbert-lucas-god-of-fire-eau-de-parfum-50ml-000000000007174672",
+        "variants": [
+            {
+                "source": "https://www.harrods.com/en-us",
+                "parent_perfume_id": "000000000007174672",
+                "id": "417455",
+                "price": 235.0,
+                "currency": "USD",
+                "size": "50",
+                "size_unit": "ml",
+                "link": "https://www.harrods.com/en-us/p/stephane-humbert-lucas-god-of-fire-eau-de-parfum-50ml-000000000007174672",
+                "line": "Parfum",
+                "vendor": "Stephane Humbert Lucas",
+                "sku": "417455",
+                "is_sampling": false,
+                "in_stock": true,
+                "created_at": "2025-06-21T16:02:12.166566",
+                "updated_at": "2025-06-21T16:02:12.166567"
+            }
+        ]
+    }
+]

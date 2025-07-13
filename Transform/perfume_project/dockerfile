@@ -1,0 +1,10 @@
+FROM ghcr.io/dbt-labs/dbt-postgres:1.7.6
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y dos2unix
+
+COPY . .
+
+ENTRYPOINT ["dbt"]
+CMD ["run", "--profiles-dir", ".", "--project-dir", "."]
